@@ -2,7 +2,7 @@
 
 I've just created a calculation for my daily calculation , give it a try.
 
-This calculation supports :
+<b>This calculation supports : </b>
 ```
     + : Add
     - : Subtract
